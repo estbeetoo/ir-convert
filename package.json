@@ -1,0 +1,22 @@
+{
+  "name": "irconverter",
+  "version": "0.1.0",
+  "description": "library to convert the IR codes from CCF-format to GlobalCache, from GlobalCache to CCF-format, from CCF-format to RAW; and so maker conf-files to Lirc from files with CCF-commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estbeetoo/ir-convert.git"
+  },
+  "keywords": [
+    "CCF",
+    "GlobalCache",
+    "RAW",
+    "Lirc",
+    "IR"
+  ],
+  "author": "Yury Kornilov <ykornilov@beetoo.me> http://beetoo.me",
+  "license": "ISC"
+}
